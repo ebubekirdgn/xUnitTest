@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\DoganPc\\source\\repos\\UnitTest.APP\\UnitTest.APP\\UnitTest.APP.csproj",
+      "projectUniqueName": "C:\\Users\\DoganPc\\source\\repos\\xUnitTest\\UnitTest.APP\\UnitTest.APP\\UnitTest.APP.csproj",
       "projectName": "UnitTest.APP",
-      "projectPath": "C:\\Users\\DoganPc\\source\\repos\\UnitTest.APP\\UnitTest.APP\\UnitTest.APP.csproj",
+      "projectPath": "C:\\Users\\DoganPc\\source\\repos\\xUnitTest\\UnitTest.APP\\UnitTest.APP\\UnitTest.APP.csproj",
       "packagesPath": "C:\\Users\\DoganPc\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\DoganPc\\source\\repos\\UnitTest.APP\\UnitTest.APP\\obj\\",
+      "outputPath": "C:\\Users\\DoganPc\\source\\repos\\xUnitTest\\UnitTest.APP\\UnitTest.APP\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\DoganPc\\AppData\\Roaming\\NuGet\\NuGet.Config",

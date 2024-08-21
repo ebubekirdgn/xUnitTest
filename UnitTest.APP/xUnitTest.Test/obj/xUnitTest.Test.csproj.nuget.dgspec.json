@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\DoganPc\\source\\repos\\UnitTest.APP\\xUnitTest.Test\\xUnitTest.Test.csproj": {}
+    "C:\\Users\\DoganPc\\source\\repos\\xUnitTest\\UnitTest.APP\\xUnitTest.Test\\xUnitTest.Test.csproj": {}
   },
   "projects": {
-    "C:\\Users\\DoganPc\\source\\repos\\UnitTest.APP\\UnitTest.APP\\UnitTest.APP.csproj": {
+    "C:\\Users\\DoganPc\\source\\repos\\xUnitTest\\UnitTest.APP\\UnitTest.APP\\UnitTest.APP.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\DoganPc\\source\\repos\\UnitTest.APP\\UnitTest.APP\\UnitTest.APP.csproj",
+        "projectUniqueName": "C:\\Users\\DoganPc\\source\\repos\\xUnitTest\\UnitTest.APP\\UnitTest.APP\\UnitTest.APP.csproj",
         "projectName": "UnitTest.APP",
-        "projectPath": "C:\\Users\\DoganPc\\source\\repos\\UnitTest.APP\\UnitTest.APP\\UnitTest.APP.csproj",
+        "projectPath": "C:\\Users\\DoganPc\\source\\repos\\xUnitTest\\UnitTest.APP\\UnitTest.APP\\UnitTest.APP.csproj",
         "packagesPath": "C:\\Users\\DoganPc\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\DoganPc\\source\\repos\\UnitTest.APP\\UnitTest.APP\\obj\\",
+        "outputPath": "C:\\Users\\DoganPc\\source\\repos\\xUnitTest\\UnitTest.APP\\UnitTest.APP\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\DoganPc\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -65,14 +65,14 @@
         }
       }
     },
-    "C:\\Users\\DoganPc\\source\\repos\\UnitTest.APP\\xUnitTest.Test\\xUnitTest.Test.csproj": {
+    "C:\\Users\\DoganPc\\source\\repos\\xUnitTest\\UnitTest.APP\\xUnitTest.Test\\xUnitTest.Test.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\DoganPc\\source\\repos\\UnitTest.APP\\xUnitTest.Test\\xUnitTest.Test.csproj",
+        "projectUniqueName": "C:\\Users\\DoganPc\\source\\repos\\xUnitTest\\UnitTest.APP\\xUnitTest.Test\\xUnitTest.Test.csproj",
         "projectName": "xUnitTest.Test",
-        "projectPath": "C:\\Users\\DoganPc\\source\\repos\\UnitTest.APP\\xUnitTest.Test\\xUnitTest.Test.csproj",
+        "projectPath": "C:\\Users\\DoganPc\\source\\repos\\xUnitTest\\UnitTest.APP\\xUnitTest.Test\\xUnitTest.Test.csproj",
         "packagesPath": "C:\\Users\\DoganPc\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\DoganPc\\source\\repos\\UnitTest.APP\\xUnitTest.Test\\obj\\",
+        "outputPath": "C:\\Users\\DoganPc\\source\\repos\\xUnitTest\\UnitTest.APP\\xUnitTest.Test\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\DoganPc\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -90,8 +90,8 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Users\\DoganPc\\source\\repos\\UnitTest.APP\\UnitTest.APP\\UnitTest.APP.csproj": {
-                "projectPath": "C:\\Users\\DoganPc\\source\\repos\\UnitTest.APP\\UnitTest.APP\\UnitTest.APP.csproj"
+              "C:\\Users\\DoganPc\\source\\repos\\xUnitTest\\UnitTest.APP\\UnitTest.APP\\UnitTest.APP.csproj": {
+                "projectPath": "C:\\Users\\DoganPc\\source\\repos\\xUnitTest\\UnitTest.APP\\UnitTest.APP\\UnitTest.APP.csproj"
               }
             }
           }
