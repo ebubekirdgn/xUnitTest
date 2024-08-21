@@ -1,0 +1,11 @@
+C:\Users\DoganPc\source\repos\UnitTest.APP\UnitTest.APP\bin\Debug\net8.0\xUnitTest.APP.deps.json
+C:\Users\DoganPc\source\repos\UnitTest.APP\UnitTest.APP\bin\Debug\net8.0\xUnitTest.APP.dll
+C:\Users\DoganPc\source\repos\UnitTest.APP\UnitTest.APP\bin\Debug\net8.0\xUnitTest.APP.pdb
+C:\Users\DoganPc\source\repos\UnitTest.APP\UnitTest.APP\obj\Debug\net8.0\xUnitTest.APP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DoganPc\source\repos\UnitTest.APP\UnitTest.APP\obj\Debug\net8.0\xUnitTest.APP.AssemblyInfoInputs.cache
+C:\Users\DoganPc\source\repos\UnitTest.APP\UnitTest.APP\obj\Debug\net8.0\xUnitTest.APP.AssemblyInfo.cs
+C:\Users\DoganPc\source\repos\UnitTest.APP\UnitTest.APP\obj\Debug\net8.0\xUnitTest.APP.csproj.CoreCompileInputs.cache
+C:\Users\DoganPc\source\repos\UnitTest.APP\UnitTest.APP\obj\Debug\net8.0\xUnitTest.APP.dll
+C:\Users\DoganPc\source\repos\UnitTest.APP\UnitTest.APP\obj\Debug\net8.0\refint\xUnitTest.APP.dll
+C:\Users\DoganPc\source\repos\UnitTest.APP\UnitTest.APP\obj\Debug\net8.0\xUnitTest.APP.pdb
+C:\Users\DoganPc\source\repos\UnitTest.APP\UnitTest.APP\obj\Debug\net8.0\ref\xUnitTest.APP.dll
