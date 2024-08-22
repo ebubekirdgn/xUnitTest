@@ -34,11 +34,14 @@ namespace xUnitTest.Test
             //Assert.True("".GetType() == typeof(string));
 
 
-            var regex = "^dgn";
+            //var regex = "^dgn";
 
-            Assert.Matches(regex,"dgn dogan");
-            Assert.DoesNotMatch(regex,"dogn dogan");
+            //Assert.Matches(regex,"dgn dogan");
+            //Assert.DoesNotMatch(regex,"dogn dogan");
 
+            var name = "ebubekir dogan";
+            Assert.StartsWith("ebubekir", name);
+            Assert.EndsWith("dgn", name);
         }
     }
 }
