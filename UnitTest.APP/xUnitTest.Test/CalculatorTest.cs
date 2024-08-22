@@ -36,7 +36,8 @@ namespace xUnitTest.Test
 
             var regex = "^dgn";
 
-            Assert.Matches(regex,"dogn dogan");
+            Assert.Matches(regex,"dgn dogan");
+            Assert.DoesNotMatch(regex,"dogn dogan");
 
         }
     }
