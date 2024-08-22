@@ -25,9 +25,12 @@ namespace xUnitTest.Test
             //Assert.DoesNotContain("Ebubekir", "ali dogan");
 
 
-            var names = new List<string>() { "Ebubekir","Dogan","Dogn"};
-            Assert.Contains(names, x => x == "Ebubekir");
+            //var names = new List<string>() { "Ebubekir","Dogan","Dogn"};
+            //Assert.Contains(names, x => x == "Ebubekir");
 
+
+            Assert.True(5 > 3);
+            Assert.False(5 < 3);
 
 
         }
