@@ -20,8 +20,14 @@ namespace xUnitTest.Test
 
             /// Assert Methods
 
-            Assert.Contains("Ebubekir", "Ebubekir dogan");
-            Assert.DoesNotContain("Ebubekir", "ali dogan");
+
+            //Assert.Contains("Ebubekir", "Ebubekir dogan");
+            //Assert.DoesNotContain("Ebubekir", "ali dogan");
+
+
+            var names = new List<string>() { "Ebubekir","Dogan","Dogn"};
+            Assert.Contains(names, x => x == "Ebubekir");
+
 
 
         }
