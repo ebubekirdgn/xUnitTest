@@ -29,9 +29,14 @@ namespace xUnitTest.Test
             //Assert.Contains(names, x => x == "Ebubekir");
 
 
-            Assert.True(5 > 3);
-            Assert.False(5 < 3);
+            //Assert.True(5 > 3);
+            //Assert.False(5 < 3);
+            //Assert.True("".GetType() == typeof(string));
 
+
+            var regex = "^dgn";
+
+            Assert.Matches(regex,"dogn dogan");
 
         }
     }
