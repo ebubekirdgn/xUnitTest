@@ -39,9 +39,14 @@ namespace xUnitTest.Test
             //Assert.Matches(regex,"dgn dogan");
             //Assert.DoesNotMatch(regex,"dogn dogan");
 
-            var name = "ebubekir dogan";
-            Assert.StartsWith("ebubekir", name);
-            Assert.EndsWith("dgn", name);
+            //var name = "ebubekir dogan";
+            //Assert.StartsWith("ebubekir", name);
+            //Assert.EndsWith("dgn", name);
+
+           var name = "";
+
+            Assert.Empty(name);
+            Assert.NotEmpty(name);
         }
     }
 }
