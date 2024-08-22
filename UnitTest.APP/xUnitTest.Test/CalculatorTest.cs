@@ -21,8 +21,9 @@ namespace xUnitTest.Test
             /// Assert Methods
 
             Assert.Contains("Ebubekir", "Ebubekir dogan");
+            Assert.DoesNotContain("Ebubekir", "ali dogan");
 
-           
+
         }
     }
 }
