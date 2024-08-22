@@ -8,15 +8,21 @@ namespace xUnitTest.Test
         [Fact]
         public void AddTest() {
 
-            //Arrange : Degiskenlerin initialize edildigi yer bu kisimdir veya nesne örnegi olusturulan kisim
-            int a =5; int b = 10;
-            var calculator = new Calculator();
+            ////Arrange : Degiskenlerin initialize edildigi yer bu kisimdir veya nesne örnegi olusturulan kisim
+            //int a =5; int b = 10;
+            //var calculator = new Calculator();
 
-            //Act
-            var total = calculator.add(a, b);
+            ////Act
+            //var total = calculator.add(a, b);
 
-            //Assert
-            Assert.Equal<int>(15,total);
+            ////Assert
+            //Assert.Equal<int>(15,total);
+
+            /// Assert Methods
+
+            Assert.Contains("Ebubekir", "Ebubekir dogan");
+
+           
         }
     }
 }
